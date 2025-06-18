@@ -72,7 +72,7 @@ O objetivo final é atingir um desempenho preditivo com **R² acima de 70%**, se
 
 ---
 
-## 👩‍💻 Desenvolvido por
+## 👩🏻‍💻 Desenvolvido por
 
 **Aline Gomes Oliveira**  
 🔗 [LinkedIn](https://www.linkedin.com/in/aline-gomes-563408169/)  
